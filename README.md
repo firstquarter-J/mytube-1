@@ -57,5 +57,7 @@
 
 ## 5. 개인 회고
 최민서 : https://doing7.tistory.com/86   
+
 양현정 : https://velog.io/@hyunjung/WEEK01%ED%9A%8C%EA%B3%A0%EB%A1%9D
+
 장상현 : https://firstquarter.tistory.com/entry/%ED%95%AD%ED%95%B499-Week01-06070612?category=987528
